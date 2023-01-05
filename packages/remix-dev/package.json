@@ -43,7 +43,7 @@
     "inquirer": "^8.2.1",
     "jscodeshift": "^0.13.1",
     "jsesc": "3.0.2",
-    "json5": "^2.2.1",
+    "json5": "^2.2.2",
     "lodash": "^4.17.21",
     "lodash.debounce": "^4.0.8",
     "minimatch": "^3.0.4",
